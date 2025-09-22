@@ -1,4 +1,4 @@
-# Wallet Tracker
+# Wallet Tracker by daiswe
 
 Track a list of crypto wallets to get notified when a new transaction is being processed.
 
